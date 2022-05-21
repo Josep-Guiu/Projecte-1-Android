@@ -1,0 +1,3 @@
+rootProject.name = "Registro_App"
+include ':app'
+include ':app:anim'
